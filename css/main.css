@@ -1,0 +1,11 @@
+body {
+    padding-top: 10px;
+    background-color: #000000;
+}
+
+
+#logo {
+    font-family: 'Lily Script One', cursive;
+    color: teal;
+    padding-left: 10px;
+}
